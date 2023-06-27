@@ -5,5 +5,7 @@ public class User {
 
     //ı am dev,
 
+    //user class completed
+
 
 }
